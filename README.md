@@ -1,43 +1,74 @@
-<h1 align="center">Hi, I'm Arun Kumar 👋</h1>
-<p align="center">Aspiring AI Robotics & Computer Vision Engineer | B.Tech Robotics & Automation</p>
+<h1 align="center">
+  👋 Hello, I'm Arun Kumar
+</h1>
+
+<h3 align="center">
+  🚀 AI Robotics & Computer Vision Enthusiast | B.Tech Robotics & Automation  
+</h3>
+
+<p align="center">
+  🌟 Dreaming big with NVIDIA • 🤖 Building Smart Robots • 💻 Writing Clean Code  
+</p>
 
 ---
 
-## 🚀 About Me
-- 🎓 B.Tech in Robotics and Automation (2025)
-- 🤖 Passionate about AI, Computer Vision, and Embedded Systems
-- 🎯 Goal: Become an AI Robotics Developer at NVIDIA
-- 💻 I enjoy building real-time robotics projects using OpenCV & YOLO
+## 🌈 About Me
+- 🧑‍🎓 Final-year student in **Robotics & Automation (2025)**
+- 🤖 Passionate about **AI, Computer Vision, and Embedded Systems**
+- 🛠 Currently working on **real-time robotics** projects using YOLO & OpenCV
+- 🎯 Goal: Become a **Computer Vision & AI Robotics Engineer at NVIDIA**
 
-## 🛠️ Projects
-- **Human-Following Robot** – YOLOv11 + ESP32 (Wi-Fi-based control)
-- **Autonomous Path Planning Car** – OpenCV navigation with Raspberry Pi
-- **Power Monitoring System** – ESP8266 + ACS712 + LCD interface
-- **Smart Irrigation System** – Soil moisture + DHT11 + pump automation
-- **NAVICAT App** – Smart item locator (Android + Firebase)
+---
+
+## 🛠 Projects Showcase
+
+💡 **Human-Following Robot**  
+ Smart ESP32 robot car that follows a person using YOLOv11, OpenCV, and real-time Wi-Fi control.
+
+💡 **Power Monitoring System**  
+ Measures voltage, current, power, and energy using ESP8266 and ACS712, with LCD + buzzer feedback.
+
+💡 **Smart Irrigation System**  
+ Automated watering system using soil moisture + DHT11, controlled by ESP8266 and 2-channel relay.
+
+💡 **Autonomous Path Car**  
+ Path planning robot with computer vision and object detection using Raspberry Pi.
+
+💡 **NAVICAT** – Android App  
+ Smart item locator mobile app using Firebase, built for practical campus use.
+
+---
 
 ## 🧰 Tech Stack
-- Languages: Python, Java, C++, JavaScript
-- Libraries: OpenCV, YOLOv11, TensorFlow, Flask
-- Platforms: Arduino, ESP32, Raspberry Pi
-- Others: SQL, Firebase, HTML/CSS
 
-## 📚 Currently Learning
-- Java DSA for Zoho placement
-- Deep Learning & Computer Vision for NVIDIA
-- ROS2 & Microservices for advanced robotics
-
-## 🏅 Achievements
-- Python Basics – HackerRank
-- Finalist – ResumeRevealer Hackathon, MINeD 2024
-- Top Dream Student – Robotics & Automation
-- Arduino & IoT Certified Workshop
-
-## 📫 Contact Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/arunkumarm020606)
-- 📧 arunkumar.robo@gmail.com
-- 💻 [GitHub](https://github.com/Arunkumar020606)
+| Language     | Platform / Tools    | Libraries / Frameworks |
+|--------------|---------------------|-------------------------|
+| Python 🐍     | Arduino / ESP32 ⚙️  | OpenCV 📷, YOLOv11 🧠    |
+| Java ☕       | Raspberry Pi 🍓     | TensorFlow 🔶           |
+| C++ ⚔️       | Firebase 🔥         | ROS (Learning) 🤖       |
+| HTML & CSS 🌐 | GitHub 🐙           | Flask 🌿                |
 
 ---
 
-> “Push boundaries. Build robots. Become the future.” 🤖
+## 📘 Currently Learning
+- Java DSA for Zoho Placement 📚  
+- Deep Learning & YOLOv11 🚀  
+- ROS2, Docker & Microservices for Robotics 🧩  
+
+---
+
+## 📫 Let’s Connect
+
+- 🌐 **GitHub**: [github.com/Arunkumar020606](https://github.com/Arunkumar020606)  
+- 💼 **LinkedIn**: [linkedin.com/in/arunkumarm020606](https://www.linkedin.com/in/arunkumarm020606)  
+- 📧 **Email**: arunkumarmrae@gmail.com  
+
+---
+
+<p align="center">
+  ✨ “Code robots that think. Build systems that serve. Change the future.” ✨  
+</p>
+
+<p align="center">
+  💥 “A man never knows his true strength until he must show his power — or be killed.” 💥
+</p>
