@@ -44,9 +44,8 @@
 | Language     | Platforms / Tools                        | Libraries / Frameworks      |
 |--------------|------------------------------------------|-----------------------------|
 | Python 🐍     | Arduino / ESP32 / Raspberry Pi ⚙️        | OpenCV 📷, YOLOv11 🧠        |
-| Java ☕       | PyCharm, Eclipse                         | TensorFlow 🔶, Flask 🌿      |
+| Java ☕       | PyCharm, Eclipse                         | TensorFlow 🔶    |
 | C++ ⚔️       | GitHub, SolidWorks                        | ROS (Learning) 🤖           |
-| HTML & CSS 🌐 | LeetCode, CodeChef                       |                             |
 
 ---
 
