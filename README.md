@@ -12,7 +12,7 @@
 
 ---
 
-## 🌈 About Me
+##  About Me
 - 🧑‍🎓 Final-year student in **Robotics & Automation (2025)**
 - 🤖 Passionate about **AI, Computer Vision, and Embedded Systems**
 - 🛠 Currently working on **real-time robotics** projects using YOLO & OpenCV
