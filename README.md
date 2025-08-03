@@ -12,7 +12,7 @@
 
 ---
 
-##  About Me
+## About Me
 - 🧑‍🎓 Final-year student in **Robotics & Automation (2025)**
 - 🤖 Passionate about **AI, Computer Vision, and Embedded Systems**
 - 🛠 Currently working on **real-time robotics** projects using YOLO & OpenCV
@@ -41,11 +41,13 @@
 
 ## 🧰 Tech Stack
 
-| Language     | Platform / Tools    | Libraries / Frameworks |
-|--------------|---------------------|-------------------------|
-| Python 🐍     | Arduino / ESP32 ⚙️  | OpenCV 📷, YOLOv11 🧠    |
-| Java ☕       | Raspberry Pi 🍓     | TensorFlow 🔶           |
-| C++ ⚔️       | Firebase 🔥         | ROS (Learning) 🤖       |
+| Language     | Platforms / Tools                        | Libraries / Frameworks      |
+|--------------|------------------------------------------|-----------------------------|
+| Python 🐍     | Arduino / ESP32 / Raspberry Pi ⚙️        | OpenCV 📷, YOLOv11 🧠        |
+| Java ☕       | PyCharm, Eclipse                         | TensorFlow 🔶, Flask 🌿      |
+| C++ ⚔️       | GitHub, SolidWorks                        | ROS (Learning) 🤖           |
+| HTML & CSS 🌐 | LeetCode, CodeChef                       |                             |
+
 ---
 
 ## 📘 Currently Learning
@@ -66,7 +68,6 @@
 <p align="center">
   🤖 “Robotics unites hardware and software — crafting intelligent systems where mechanics meet code.” 🤖
 </p>
-
 
 <p align="center">
   💥 “A man never knows his true strength until he must show his power — or be killed.” 💥
