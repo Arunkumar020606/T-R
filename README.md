@@ -46,12 +46,10 @@
 | Python 🐍     | Arduino / ESP32 ⚙️  | OpenCV 📷, YOLOv11 🧠    |
 | Java ☕       | Raspberry Pi 🍓     | TensorFlow 🔶           |
 | C++ ⚔️       | Firebase 🔥         | ROS (Learning) 🤖       |
-| HTML & CSS 🌐 | GitHub 🐙           | Flask 🌿                |
-
 ---
 
 ## 📘 Currently Learning
-- Java DSA for Zoho Placement 📚  
+- Java DSA for Placement 📚  
 - Deep Learning & YOLOv11 🚀  
 - ROS2, Docker & Microservices for Robotics 🧩  
 
@@ -66,8 +64,9 @@
 ---
 
 <p align="center">
-  ✨ “Code robots that think. Build systems that serve. Change the future.” ✨  
+  🤖 “Robotics unites hardware and software — crafting intelligent systems where mechanics meet code.” 🤖
 </p>
+
 
 <p align="center">
   💥 “A man never knows his true strength until he must show his power — or be killed.” 💥
